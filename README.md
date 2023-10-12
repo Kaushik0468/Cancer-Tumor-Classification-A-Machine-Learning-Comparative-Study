@@ -1,6 +1,7 @@
 # Cancer-Tumor-Classification-A-Machine-Learning-Comparative-Study
 
 Short Description:
+
 • Preprocessed data by handling missing values and normalizing the dataset for tumor classification. 
 • Machine Learning Models: Implemented Perceptron Learning Algorithm, Fisher’s Linear Discriminant 
 Analysis, and Logistic Regression for Benign vs. Malignant tumor classification. 
